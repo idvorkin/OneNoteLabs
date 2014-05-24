@@ -1,4 +1,2 @@
-OneNoteLabs
-===========
-
-A repository of OneNote Labs Projects
+[Goto The Wiki](https://github.com/idvorkin/OneNoteLabs/wiki)
+=========================
